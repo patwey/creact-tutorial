@@ -1,4 +1,5 @@
-# Creact
-## Starter repo for the [creact tutorial](http://github.com/applegrain/creact)
+# Creact-Tutorial
 
-PR's accepted (ツ)
+Building a simple CRUD app using Rails and React.
+
+Tutorial here: [https://github.com/applegrain/creact](https://github.com/applegrain/creact)
